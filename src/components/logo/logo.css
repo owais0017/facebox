@@ -1,0 +1,7 @@
+.Tilt {
+    background: rgb(27,22,22);
+    background: linear-gradient(90deg, rgba(27,22,22,1) 0%, rgba(16,19,22,1) 59%, rgba(18,17,17,1) 100%, rgba(29,62,70,1) 100%, rgba(155,165,170,1) 100%, rgba(3,21,26,1) 100%, rgba(19,38,41,1) 100%, rgba(36,0,6,1) 100%);
+    -webkit-box-shadow:0px 0px 117px 0px rgba(198,204,202,0.37);
+    -moz-box-shadow: 0px 0px 117px 0px rgba(198,204,202,0.37);
+     box-shadow: 0px 0px 117px 0px rgba(198,204,202,0.37);;
+}
