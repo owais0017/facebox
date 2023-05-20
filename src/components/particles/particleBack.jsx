@@ -52,9 +52,9 @@ const ParticleBackground = () => {
                     },
                     links: {
                         color: "#ffffff",
-                        distance: 150,
+                        distance: 200,
                         enable: true,
-                        opacity: 0.7,
+                        opacity: 0.5,
                         width: 1,
                     },
                     collisions: {
@@ -67,13 +67,13 @@ const ParticleBackground = () => {
                             default: "bounce",
                         },
                         random: false,
-                        speed: 3,
+                        speed: 2,
                         straight: false,
                     },
                     number: {
                         density: {
                             enable: true,
-                            area: 700,
+                            area: 800,
                         },
                         value: 120,
                     },
